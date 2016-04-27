@@ -1,1 +1,1 @@
-mainClass in (Compile, run) := Some("CalcApp")
+mainClass in (Compile, run) := Some("controllers.CalcApp")
